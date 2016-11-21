@@ -1,5 +1,5 @@
 ---
-title: November 2016: Go vote!
+title: November 2016 Go vote!
 date: 2016-10-27
 description: No meeting on election date, go vote!
 ---
@@ -12,4 +12,4 @@ If the line is even longer than our quick poll, then take the time to mark your 
 
 **November 29: Fifth Tuesday;** We'll have a Beer Summit at a location to be announced. Stay tuned.
 
-**December 13: The Austin Web Bash, or #AWBASH**, holiday party is back! Every year, Refresh Austin hosts the  to bring Austin's web and tech meetups together under one roof to celebrate the end of the year. If you help [run a meetup that you want to participate](mailto:contact@refreshaustin.org) or you're with a [company that wants to sponsor](sponsor@refreshaustin.org), then let us know. 
+**December 13: The Austin Web Bash, or #AWBASH**, holiday party is back! Every year, Refresh Austin hosts the  to bring Austin's web and tech meetups together under one roof to celebrate the end of the year. If you help [run a meetup that you want to participate](mailto:contact@refreshaustin.org) or you're with a [company that wants to sponsor](mailto:sponsor@refreshaustin.org), then let us know.

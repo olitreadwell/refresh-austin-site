@@ -1,0 +1,63 @@
+---
+title: The Austin Web Bash 2016
+date: 2016-11-21
+description: The biggest, yearly holiday party is back!
+---
+
+THE BIGGEST HOLIDAY PARTY IS BACK
+
+Every year, Refresh Austin hosts the Austin Web Bash, or #AWBASH, to bring Austin's web and tech meetups together under one roof to celebrate the end of the year.
+
+**RSVP ON EVENTBRITE: [awbash2016.eventbrite.com](https://www.eventbrite.com/e/awbash-2016-tickets-28917528105)**
+
+An RSVP on meetup does not RSVP you for the event, you must RSVP on Eventbrite.
+
+2016 Benefited Nonprofit: ChickTech
+
+![ChickTech](images/awbash/chicktech.png)
+
+This year, we are raising funds for [ChickTech Austin](http://austin.chicktech.org/), a nonprofit dedicated to retaining women in the technology workforce and increasing the number of women and girls pursuing technology-based careers. All ticket sales will go straight to supporting ChickTech Austin.
+
+Presenting meetups:
+
+AustinAPI
+
+Austin Computer Book Club
+
+Austin Drupal Users Group
+
+Austin JavaScript
+
+Austin PHP
+
+Austin on Rails
+
+Bleeding Edge Web
+
+Capital Factory
+
+Ember ATX
+
+Girl Develop It
+
+Laravel Austin Meetup
+
+Lean User Experience Austin
+
+Product League Austin
+
+Open Austin
+
+WordPress ATX
+
+Women in Data Science ATX
+
+Women Who Code Austin
+
+***
+
+If you are a group, company, or individual who's interested in helping, please reach out to [contact@refreshaustin.org](mailto:contact@refreshaustin.org) as quickly as possible. If you have any questions or need any additional info, please don't hesitate to ask!
+
+Wanna learn more about AWBASH? Check out
+[this history of the event](https://medium.com/@cecycorrea/an-oral-history-of-the-austin-web-bash-82f15f673300#.vxfpsg8uw)
+by our own [Cecy Correa](http://twitter.com/cecycorrea).
