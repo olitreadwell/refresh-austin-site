@@ -18,7 +18,15 @@ An RSVP on meetup does not RSVP you for the event, you must RSVP on Eventbrite.
 
 This year, we are raising funds for [ChickTech Austin](http://austin.chicktech.org/), a nonprofit dedicated to retaining women in the technology workforce and increasing the number of women and girls pursuing technology-based careers. All ticket sales will go straight to supporting ChickTech Austin.
 
-Presenting meetups:
+HUGE THANKS TO OUR SPONSORS!
+
+![Condé Nast](images/sponsors/conde-nast-logo-white.png)
+
+![thoughtbot](images/awbash/thoughtbot-logo-white.png)
+
+_Want to sponsor? Email us at [sponsor@refreshaustin.org](mailto:sponsor@refreshaustin.org)_
+
+PRESENTING MEETUPS:
 
 AustinAPI
 
