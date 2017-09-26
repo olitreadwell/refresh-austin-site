@@ -1,8 +1,8 @@
-##Refresh Austin website
+## Refresh Austin website
 
 This site is built on Jekyll using the Spectral theme from HTML5up.
 
-###Get up and running
+### Get up and running
 
 1. `git clone` the repository.
 2. open your terminal
