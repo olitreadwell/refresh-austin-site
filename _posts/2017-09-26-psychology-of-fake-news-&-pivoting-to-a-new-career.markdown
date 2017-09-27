@@ -4,7 +4,7 @@ date: 2017-10-10
 description: Psychology of Fake News (and What Tech Can Do About It) & Pivoting to a New Career
 ---
 
-## The Psychology of Fake News (and What Tech Can Do About It)  
+## The Psychology of Fake News (and What Tech Can Do About It)
 
 #### Presented by Cecy Correa ([@cecycorrea](http://twitter.com/cecycorrea)), software engineer at Return Path
 
